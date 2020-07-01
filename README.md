@@ -1,6 +1,7 @@
 # Alternative-Social-Networks
 List of alternative or decentralized social networks:
 
+Voat: https://voat.co/  
 Parler: https://parler.com/  
 GAB: https://gab.ai/gamer456148  
 Ello: https://ello.co/childprodigy  
