@@ -6,6 +6,7 @@ MeWe: https://mewe.com/
 Parler: https://parler.com/  
 GAB: https://gab.ai/gamer456148  
 Ello: https://ello.co/childprodigy  
+Rumble: https://rumble.com/c/c-580817  
 BitTube: https://bit.tube/gamer456148  
 Minds: https://www.minds.com/LoneroLNR  
 Peepeth: https://peepeth.com/gamer456148  
