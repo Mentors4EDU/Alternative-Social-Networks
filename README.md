@@ -13,5 +13,5 @@ Steemit: https://steemit.com/@etherstone
 Diaspora*: https://diasporafoundation.org/  
 Minds: https://www.minds.com/LoneroLNR  
 Peepeth: https://peepeth.com/gamer456148  
-Mastodon: https://mastodon.social/@gamer456148  
-Locals: https://decentralizedinternet.locals.com/
+Locals: https://decentralizedinternet.locals.com/  
+Mastodon: https://mastodon.social/@gamer456148
