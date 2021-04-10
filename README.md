@@ -1,5 +1,5 @@
 # Alternative-Social-Networks
-List of alternative or decentralized social networks:
+*List of alternative or decentralized social networks:*
 
 Gab: https://gab.ai/  
 Ello: https://ello.co/  
@@ -16,4 +16,4 @@ Minds: https://www.minds.com/
 Mastodon: https://mastodon.social/  
 Diaspora*: https://diasporafoundation.org/
 
-Follow me on: [Gab](https://gab.ai/gamer456148) | [Ello](https://ello.co/childprodigy) | [Minds](https://www.minds.com/LoneroLNR) | [Locals](https://decentralizedinternet.locals.com/) | [Rumble](https://rumble.com/c/c-580817) | [Steemit](https://steemit.com/@etherstone) | [BitTube](https://bit.tube/gamer456148) | [Peepeth](https://peepeth.com/gamer456148) | [BitClout](https://bitclout.com/u/amkn) | [Mastodon](https://mastodon.social/@gamer456148)
+**Follow me on:** [Gab](https://gab.ai/gamer456148) | [Ello](https://ello.co/childprodigy) | [Minds](https://www.minds.com/LoneroLNR) | [Locals](https://decentralizedinternet.locals.com/) | [Rumble](https://rumble.com/c/c-580817) | [Steemit](https://steemit.com/@etherstone) | [BitTube](https://bit.tube/gamer456148) | [Peepeth](https://peepeth.com/gamer456148) | [BitClout](https://bitclout.com/u/amkn) | [Mastodon](https://mastodon.social/@gamer456148)
