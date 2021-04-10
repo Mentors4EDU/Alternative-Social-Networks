@@ -15,3 +15,5 @@ Minds: https://www.minds.com/LoneroLNR
 Peepeth: https://peepeth.com/gamer456148  
 Locals: https://decentralizedinternet.locals.com/  
 Mastodon: https://mastodon.social/@gamer456148
+
+*Further details coming soon!*
