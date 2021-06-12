@@ -3,7 +3,9 @@
 
 Gab: https://gab.ai/  
 Ello: https://ello.co/  
+Rally: https://rally.io/  
 Voat: https://voat.co/  
+Only1: https://only1.io/  
 BitTube: https://bit.tube/  
 Parler: https://parler.com/  
 MeWe: https://mewe.com/  
