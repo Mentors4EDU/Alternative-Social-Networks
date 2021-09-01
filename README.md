@@ -15,6 +15,7 @@ Steemit: https://steemit.com/
 BitClout: https://bitclout.com/  
 Peepeth: https://peepeth.com/  
 Minds: https://www.minds.com/  
+Blockster: https://blockster.com/  
 Mastodon: https://mastodon.social/  
 Ideamarket: https://app.ideamarket.io/  
 Diaspora*: https://diasporafoundation.org/
