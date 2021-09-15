@@ -1,4 +1,4 @@
-# Alternative-Social-Networks
+# Alternative Social Networks
 *List of alternative or decentralized social networks:*
 
 Gab: https://gab.ai/  
